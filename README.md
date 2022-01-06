@@ -1,11 +1,11 @@
 <div align="center"> <a href="#"> <img alt="MaBangVueAdmin Logo" width="200" height="200" src="./public/resource/img/logo.png"> </a> <br> <br>
 
-<h1>Vue MaBang admin</h1>
+<h1>Vue3 admin</h1>
 </div>
 
 ## 简介
 
-Vue MaBang admin 是为快速业务开发搭建的中后台模版。使用了最新的`vue3`,`vite2`,`TypeScript`等主流技术开发，开箱即用的中后台前端解决方案。
+Vue3 admin 是为快速业务开发搭建的中后台模版。使用了最新的`vue3`,`vite2`,`TypeScript`等主流技术开发，开箱即用的中后台前端解决方案。
 
 ## 特性
 
