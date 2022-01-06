@@ -1,8 +1,8 @@
 {
-  "name": "{{name}}",
+  "name": "vue3-admin",
   "version": "1.0.0-beta.4",
-  "description": "{{description}}",
-  "author": "{{author}}",
+  "description": "vue3admin模板",
+  "author": "ZhangYang",
   "scripts": {
     "bootstrap": "pnpm install",
     "dev": "vite",
